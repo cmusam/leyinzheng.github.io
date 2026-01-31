@@ -8,5 +8,5 @@ title: Home
 
 Writing about healthcare, data, and startups.
 
-- [About](/about)
-- [Writing](/writing)
+- [About]({{ site.baseurl }}/about)
+- [Writing]({{ site.baseurl }}/writing)
