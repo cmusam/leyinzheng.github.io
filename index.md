@@ -1,16 +1,10 @@
 ---
-layout: default
-title: About
+title: Home
 ---
 
-<div class="profile">
-  <img src="{{ '/assets/img/leyin.jpeg' | relative_url }}" alt="Leyin profile" />
-  <div>
-    <strong>Leyin Zheng</strong><br/>
-    <span class="muted">Writing about companies, roles, and what I learn.</span>
-  </div>
-</div>
+# Leyin Zheng
 
-## About
+Short intro goes here.
 
-PASTE_YOUR_150_WORD_INTRO_HERE
+- [About](/about)
+- [Writing](/writing)
