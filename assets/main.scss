@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+/* Base body text */
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 24px;
+  line-height: 1.3;
+}
+
+/* Top navigation text */
+.site-nav .page-link {
+  font-size: 24px;
+}
