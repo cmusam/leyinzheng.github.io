@@ -1,5 +1,8 @@
 ---
 title: Writing
+layout: page
 ---
 
-- [First post](/2026/01/31/first-post)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}

@@ -1,15 +1,5 @@
 title: Leyin Zheng
-description: Minimalist notes on work and learning
-url: "https://leyinzheng.com"
-
-markdown: kramdown
-permalink: /writing/:title/
-
-theme: null
-
-plugins:
-  - jekyll-seo-tag
-
+theme: minima
 description: Writing about healthcare, data, and startups
 
 header_pages:

@@ -1,5 +1,6 @@
 ---
 title: About
+layout: page
 ---
 
 <img src="{{ site.baseurl }}/assets/me.jpeg" alt="Leyin Zheng" width="160" style="border-radius: 50%; margin-bottom: 1rem;">
