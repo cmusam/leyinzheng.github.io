@@ -4,20 +4,25 @@
 @import "minima";
 
 /* Typography */
-body { font-size: 18px; }
-h1, h2, h3, h4, h5, h6, .site-nav .page-link { font-size: 24px; }
-
-/* Profile photo: responsive */
-img[alt="Leyin Zheng"] {
-  width: 300px;
-  max-width: 100%;
+body {
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: #fdf6e3;   /* solarized light base */
+  color: #657b83;              /* solarized body text */
 }
 
-@media (max-width: 600px) {
-  img[alt="Leyin Zheng"] {
-    width: 180px;
-    float: none;
-    display: block;
-    margin: 0 auto 1rem;
-  }
+/* Headings + nav */
+h1, h2, h3, h4, h5, h6,
+.site-nav .page-link {
+  font-size: 24px;
+  color: #586e75;              /* darker solarized */
+}
+
+/* Links */
+a {
+  color: #268bd2;              /* solarized blue */
+}
+
+a:hover {
+  color: #2aa198;              /* solarized cyan */
 }
