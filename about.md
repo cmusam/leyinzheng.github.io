@@ -4,10 +4,10 @@ layout: page
 ---
 
 <img src="{{ site.baseurl }}/assets/me.jpeg"
-     alt="Leyin Zheng"
+     alt="Christina Zheng"
      style="float:left; width:300px; margin:0 1.2rem 0.8rem 0; border-radius:50%;">
 
-Hello! I’m Leyin Zheng. I work at the intersection of data, healthcare, and business.
+Hello! I’m Christina Zheng. I work at the intersection of data, healthcare, and business.
 
 I’ve spent the last few years building analytics and commercial strategy for healthcare companies, from go-to-market planning to data platforms and physician targeting.
 
