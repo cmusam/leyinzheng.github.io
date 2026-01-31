@@ -9,3 +9,10 @@ theme: null
 
 plugins:
   - jekyll-seo-tag
+
+description: Writing about healthcare, data, and startups
+
+header_pages:
+  - writing.md
+  - about.md
+  - projects.md
