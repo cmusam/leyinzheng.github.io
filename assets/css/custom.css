@@ -14,24 +14,26 @@ body {
   width: 220px !important;
 }
 
-/* Footer cleanup: only show © 2026 */
+/* Footer cleanup */
 .site-footer .footer-heading,
 .site-footer .contact-list,
 .site-footer .social-media-list {
   display: none;
 }
 
+/* Footer version stamp */
 .site-footer::after {
-  content: "© 2026";
+  content: "© 2026 · v0.4";
   display: block;
   margin-top: 1rem;
   color: #555;
+  font-size: 0.9rem;
 }
 
 /* --- NAV: bigger click target + hover highlight --- */
 .site-nav .page-link {
-  display: inline-block;          /* makes padding clickable */
-  padding: 0.35rem 0.6rem;        /* bigger click area */
+  display: inline-block;
+  padding: 0.35rem 0.6rem;
   margin-left: 0.25rem;
   border-radius: 6px;
   text-decoration: none;
@@ -39,11 +41,10 @@ body {
 
 .site-nav .page-link:hover,
 .site-nav .page-link:focus {
-  background: #f0f0f0;            /* hover highlight */
+  background: #f0f0f0;
   color: #000;
 }
 
-/* keep current page visually distinct (minima uses aria-current) */
 .site-nav .page-link[aria-current="page"] {
   text-decoration: underline;
   text-underline-offset: 3px;
