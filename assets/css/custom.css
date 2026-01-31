@@ -1,51 +1,42 @@
-/* Wider content like grohan.co */
-.wrapper {
-  max-width: 80ch;
-}
+/* Wider content */
+.wrapper { max-width: 80ch; }
 
-/* Slightly larger, more readable text */
-body {
-  font-size: 1.05rem;
-  line-height: 1.65;
-}
+/* Larger base font */
+body { font-size: 1.05rem; line-height: 1.65; }
 
-/* About page image sizing */
-.about img {
-  width: 220px !important;
-}
-
-/* Footer cleanup */
+/* Footer: © + version */
 .site-footer .footer-heading,
 .site-footer .contact-list,
-.site-footer .social-media-list {
-  display: none;
-}
+.site-footer .social-media-list { display: none; }
 
-/* Footer version stamp */
 .site-footer::after {
-  content: "© 2026 · v0.4";
+  content: "© 2026 · v0.6";
   display: block;
   margin-top: 1rem;
   color: #555;
   font-size: 0.9rem;
 }
 
-/* --- NAV: bigger click target + hover highlight --- */
-.site-nav .page-link {
+/* Nav: bigger click target + hover highlight */
+.site-header .site-nav a,
+.site-header .site-nav .page-link {
   display: inline-block;
   padding: 0.35rem 0.6rem;
-  margin-left: 0.25rem;
   border-radius: 6px;
   text-decoration: none;
 }
 
-.site-nav .page-link:hover,
-.site-nav .page-link:focus {
+.site-header .site-nav a:hover,
+.site-header .site-nav a:focus,
+.site-header .site-nav .page-link:hover,
+.site-header .site-nav .page-link:focus {
   background: #f0f0f0;
   color: #000;
 }
 
-.site-nav .page-link[aria-current="page"] {
+/* Active tab */
+.site-header .site-nav a[aria-current="page"],
+.site-header .site-nav .page-link[aria-current="page"] {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
