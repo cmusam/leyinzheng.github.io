@@ -2,6 +2,8 @@ title: Leyin Zheng
 theme: minima
 description: Writing about healthcare, data, and startups
 
+permalink: /:title/
+
 header_pages:
   - writing.md
   - about.md
