@@ -7,12 +7,10 @@ layout: page
      alt="Christina Zheng"
      style="float:left; width:300px; margin:0 1.2rem 0.8rem 0; border-radius:50%;">
 
-Hello! I’m Christina Zheng. I work at the intersection of data, healthcare, and business.
+Hello! I’m Christina Zheng. I work at the intersection of data, healthcare, and business. I focus on how healthcare decisions are actually made and carried out.
 
-I’ve spent the last few years building analytics and commercial strategy for healthcare companies, from go-to-market planning to data platforms and physician targeting.
+I’ve built analytics and commercial strategy for healthcare companies, from go-to-market planning to data platforms and physician targeting. My work is about turning data into decisions that matter for patients, providers, and systems.
 
-More recently, I’ve worked with early-stage healthcare teams on investing, diligence, and company building.
-
-I care about how data drives real decisions in healthcare — how systems scale, how organizations operate, and how incentives shape outcomes.
+I care deeply about how healthcare works in practice. How systems scale. How organizations operate. And how incentives shape outcomes.
 
 <div style="clear:both;"></div>
