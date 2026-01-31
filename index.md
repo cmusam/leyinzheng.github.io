@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="/assets/me.jpeg" alt="Leyin Zheng" width="160" style="border-radius: 9999px; margin-bottom: 1rem;">
+<img src="{{ site.baseurl }}/assets/me.jpeg" alt="Leyin Zheng" width="160" style="border-radius: 9999px; margin-bottom: 1rem;">
 
 # Leyin Zheng
 
