@@ -3,19 +3,21 @@
 
 @import "minima";
 
-/* Body text */
-body {
-  font-size: 18px;
-  line-height: 1.6;
+/* Typography */
+body { font-size: 18px; }
+h1, h2, h3, h4, h5, h6, .site-nav .page-link { font-size: 24px; }
+
+/* Profile photo: responsive */
+img[alt="Leyin Zheng"] {
+  width: 300px;
+  max-width: 100%;
 }
 
-/* Headings (all) */
-h1, h2, h3, h4, h5, h6 {
-  font-size: 24px;
-  line-height: 1.3;
-}
-
-/* Nav text */
-.site-nav .page-link {
-  font-size: 24px;
+@media (max-width: 600px) {
+  img[alt="Leyin Zheng"] {
+    width: 180px;
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
 }
