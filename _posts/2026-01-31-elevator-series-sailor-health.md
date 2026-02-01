@@ -15,5 +15,5 @@ Sailor Health connects seniors with licensed therapists trained in geriatric car
 Mental health is a highly competitive market. Senior care is also a mature space. But mental health care built specifically for seniors feels like a real gap. This was my first time seeing a company focused at that intersection. It’s a narrow wedge, but a meaningful one.
 
 <small style="font-size: 0.75em; color: #777; line-height: 1.2; display: block;">
-*This article is part of the Elevator Series — short, sub-100-word summaries of healthcare startups written in an elevator-pitch style, alongside my personal perspective on their business models. It was written out of curiosity and independent research. I am not affiliated with the company discussed.*
+*This article is part of the Elevator Series — short summaries of healthcare startups written in an elevator-pitch style, alongside my personal perspective on their business models. It was written out of curiosity and independent research. I am not affiliated with the company discussed.*
 </small>

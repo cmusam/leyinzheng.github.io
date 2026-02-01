@@ -21,5 +21,5 @@ While radiology was the earliest adopter of PACS, UltraLinQ has focused on cardi
 In August 2025, [Core Sound Imaging](https://www.corestudycast.com/) (Raleigh, NC), which owns another PACS platform called Studycast, acquired UltraLinQ. Beyond scale, this merger may bring more aggregated imaging data and broader workflows onto a single platform. Increased data density could unlock additional value through integrations such as UltraLinQ’s partnership with [iCardio.ai](https://www.icardio.ai) (Los Angeles, CA), which focuses on AI-assisted echocardiography.
 
 <small style="font-size: 0.75em; color: #777; line-height: 1.2; display: block;">
-*This article is part of the Elevator Series — short, sub-100-word summaries of healthcare startups written in an elevator-pitch style, alongside my personal perspective on their business models. It was written out of curiosity and independent research. I am not affiliated with the company discussed.*
+*This article is part of the Elevator Series — short summaries of healthcare startups written in an elevator-pitch style, alongside my personal perspective on their business models. It was written out of curiosity and independent research. I am not affiliated with the company discussed.*
 </small>
