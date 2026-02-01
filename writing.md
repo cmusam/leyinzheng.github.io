@@ -1,4 +1,3 @@
-<!-- rebuild -->
 ---
 title: Blog
 layout: page
