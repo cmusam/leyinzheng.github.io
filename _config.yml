@@ -7,6 +7,5 @@ permalink: /:title/
 header_pages:
   - about.md
   - writing.md
-  - projects.md
   - resume.md
 
