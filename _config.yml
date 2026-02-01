@@ -5,10 +5,8 @@ description: v0.7 · Blog about healthcare, data, and startups
 permalink: /:title/
 
 header_pages:
-  - resume.md
-  - writing.md
   - about.md
+  - writing.md
   - projects.md
+  - resume.md
 
-minima:
-  skin: solarized-light
